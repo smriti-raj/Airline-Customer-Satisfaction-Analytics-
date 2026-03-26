@@ -6,7 +6,8 @@ The goal is to:
 1. Explore what factors drive customer satisfaction 
 2. Clean and prepare real-world data
 3. Build machine learning models to predict satisfaction
-4. Interpret results and provide business insights
+4. Interpret results and provide business insights.
+   
    
 📌 This project demonstrates skills in:
 1. Python & NumPy
